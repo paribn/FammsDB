@@ -1,0 +1,28 @@
+﻿@foreach (var item in Model.Testimonials)
+{
+    <div class="carousel-item active">
+        <div class="box col-lg-10 mx-auto">
+            <div class="img_container">
+                <div class="img-box">
+                    <div class="img_box-inner">
+                        <img src="~/assets/images/@item.ImagePath" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="detail-box">
+                <h5>
+                    @item.Name
+                </h5>
+                <h6>
+                    <h6>
+                        @item.Position
+                    </h6>
+                    <p>
+                        @item.Details
+                    </p>
+            </div>
+        </div>
+    </div>
+
+
+}
