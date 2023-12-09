@@ -16,15 +16,14 @@ namespace ex_famms.Controllers
         {
 
             var testimonials = _context.Testimonial.ToList();
-            var contact = _context.Contact.ToList();
 
-            var model = new ProductIndexVM
+            var model = new HomeIndexVM
             {
                 Testimonials = testimonials,
-                ContactFooter = contact,
 
             };
             return View(model);
         }
+       
     }
 }

@@ -1,7 +1,7 @@
 ﻿using ex_famms.Data;
+using ex_famms.Models;
 using ex_famms.ViewModels;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 
 namespace ex_famms.Controllers
 {
@@ -13,16 +13,32 @@ namespace ex_famms.Controllers
         {
             _context = dbContext;
         }
+
         public IActionResult Index()
         {
-            var contact = _context.Contact.ToList();
+            return View();
+        }
 
-            var model = new ProductIndexVM
+        [HttpPost]
+        public IActionResult Index(ContactVM model)
+        {
+            if (!ModelState.IsValid)return View(model);
+
+
+
+            var query = new Query
             {
-                ContactFooter = contact,
-
+                FullName = model.FullName,
+                Email = model.Email,
+                Subject = model.Subject,
+                Message = model.Message
             };
-            return View(model);
+
+            _context.Query.Add(query);
+            _context.SaveChanges();
+            
+           
+            return RedirectToAction("Index");
         }
 
 

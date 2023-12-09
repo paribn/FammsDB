@@ -1,0 +1,7 @@
+﻿@model FooterVM
+@foreach (var item in Model.Footers)
+{
+    <p><strong>ADDRESS:</strong> @item.Adress</p>
+    <p><strong>TELEPHONE:</strong> @item.PhoneNumber</p>
+    <p><strong>EMAIL:</strong> @item.Email</p>
+}

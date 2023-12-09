@@ -1,4 +1,4 @@
-﻿
+﻿@model ContactVM
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_OtherLayout.cshtml";
@@ -24,12 +24,25 @@
         <div class="row">
             <div class="col-lg-8 offset-lg-2">
                 <div class="full">
-                    <form action="index.html">
+                    <form asp-controller="Contact" asp-action="Index" method="post">
+                        <div class="text-danger" asp-validation-summary="All">
+                        </div>
                         <fieldset>
-                            <input type="text" placeholder="Enter your full name" name="name" required />
-                            <input type="email" placeholder="Enter your email address" name="email" required />
-                            <input type="text" placeholder="Enter subject" name="subject" required />
-                            <textarea placeholder="Enter your message" required></textarea>
+
+                            <input asp-for="FullName" type="text" placeholder="Enter your full name" required />
+                            <span class="text-danger" asp-validation-for="FullName"></span>
+
+                            <input asp-for="Email" type="email" placeholder="Enter your email address"  required />
+                            <span class="text-danger" asp-validation-for="Email"></span>
+
+
+                            <input asp-for="Subject" type="text" placeholder="Enter subject"  required />
+                            <span class="text-danger" asp-validation-for="Subject"></span>
+
+
+                            <textarea asp-for="Message" placeholder="Enter your message" required></textarea>
+                           
+
                             <input type="submit" value="Submit" />
                         </fieldset>
                     </form>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G62DQ/Y3NXPHcDU3V2L1kOzisBbC7K17ArHI4X5TCT68pn/jYi35JDoU02zTUgokbk9Cqs2GhZhlXDLIh4MBtQ==",
+  "dgSpecHash": "JbkM1pY1wZOMAGbWPkg/STW8mw0BFRf4JGUMeVK6y3CJmoYDu1UUmQrDJ9ApM6p3CvDh3XNBE4O54N4fVXTNNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\ex_famms.csproj",
+  "projectFilePath": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\ex_famms.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rovsen Novruzov\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Rovsen Novruzov\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

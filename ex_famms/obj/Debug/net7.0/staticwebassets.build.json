@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+d+S3MgqC4ae9/UETs1zGvAyjRzUoTuEnXxpLJjEMhM=",
+  "Hash": "q9B/HjppW6eAiHLKz3Z6Lr5pzFzWXkfiEyL6UxiTI5k=",
   "Source": "ex_famms",
   "BasePath": "_content/ex_famms",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ex_famms\\wwwroot",
       "Source": "ex_famms",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ex_famms.styles.css",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ex_famms.styles.css",
       "SourceId": "ex_famms",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "ex_famms.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ex_famms.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ex_famms.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ex_famms.bundle.scp.css",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ex_famms.bundle.scp.css",
       "SourceId": "ex_famms",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "ex_famms.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ex_famms.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ex_famms.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\css\\bootstrap.css",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/css/bootstrap.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\css\\font-awesome.min.css",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\css\\responsive.css",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\css\\responsive.css",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/css/responsive.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\css\\style.css",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/css/style.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\css\\style.css.map",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\css\\style.css.map",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/css/style.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\css\\style.scss",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\css\\style.scss",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/css/style.scss",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.scss"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\images\\arrival-bg.jpg",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\images\\arrival-bg.jpg",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/images/arrival-bg.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\arrival-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\images\\arrival-bg.png",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\images\\arrival-bg.png",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/images/arrival-bg.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\arrival-bg.png"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\images\\client.jpg",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\images\\client.jpg",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/images/client.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\client.jpg"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\images\\favicon.png",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\images\\favicon.png",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/images/favicon.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\images\\logo.png",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\images\\logo.png",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/images/logo.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\images\\p1.png",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\images\\p1.png",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/images/p1.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\p1.png"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\images\\p10.png",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\images\\p10.png",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/images/p10.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\p10.png"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\images\\p11.png",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\images\\p11.png",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/images/p11.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\p11.png"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\images\\p12.png",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\images\\p12.png",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/images/p12.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\p12.png"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\images\\p2.png",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\images\\p2.png",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/images/p2.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\p2.png"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\images\\p3.png",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\images\\p3.png",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/images/p3.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\p3.png"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\images\\p4.png",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\images\\p4.png",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/images/p4.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\p4.png"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\images\\p5.png",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\images\\p5.png",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/images/p5.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\p5.png"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\images\\p6.png",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\images\\p6.png",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/images/p6.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\p6.png"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\images\\p7.png",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\images\\p7.png",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/images/p7.png",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\p7.png"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\images\\p8.png",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\images\\p8.png",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/images/p8.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\p8.png"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\images\\p9.png",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\images\\p9.png",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/images/p9.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\p9.png"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\images\\slider-bg.jpg",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\images\\slider-bg.jpg",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/images/slider-bg.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\slider-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\js\\bootstrap.js",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/js/bootstrap.js",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\js\\custom.js",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\js\\custom.js",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/js/custom.js",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\js\\jquery-3.4.1.min.js",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\js\\jquery-3.4.1.min.js",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/js/jquery-3.4.1.min.js",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-3.4.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\js\\popper.min.js",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\js\\popper.min.js",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/js/popper.min.js",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\my-css\\style.css",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\my-css\\style.css",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/my-css/style.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\my-css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\assets\\my-css\\style.css.map",
+      "Identity": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\assets\\my-css\\style.css.map",
       "SourceId": "ex_famms",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\ex_famms\\ex_famms\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\FammsDB\\ex_famms\\wwwroot\\",
       "BasePath": "_content/ex_famms",
       "RelativePath": "assets/my-css/style.css.map",
       "AssetKind": "All",

@@ -13,18 +13,17 @@ namespace ex_famms.Controllers
         {
             _context = dbContext;
         }
+        [ResponseCache(Duration = 10)]
         public IActionResult Index()
         {
 
             var product = _context.Products.ToList();
             var testimonial = _context.Testimonial.ToList();
-            var contact = _context.Contact.ToList();    
 
-            var model = new ProductIndexVM
+            var model = new HomeIndexVM
             {
                 Products = product,
                 Testimonials = testimonial,
-                ContactFooter = contact,
             };
             return View(model);
 

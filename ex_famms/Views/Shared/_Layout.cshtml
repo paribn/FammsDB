@@ -1,4 +1,4 @@
-﻿@model ProductIndexVM
+﻿
 <!DOCTYPE html>
 <html>
    <head>
@@ -132,14 +132,8 @@
                                 <a  asp-controller="Home" asp-action="Index"><img width="210" src="~/assets/images/logo.png" alt="#" /></a>
                             </div>
                             <div class="information_f">
-                                @foreach(var item in Model.ContactFooter)
-                                {
-                                    <p><strong>ADDRESS:</strong> @item.Adress</p>
-                                    <p><strong>TELEPHONE:</strong> @item.PhoneNumber</p>
-                                    <p><strong>EMAIL:</strong> @item.Email</p>
-                                }
+                                @await Component.InvokeAsync("HomeFooter")
 
-                              
                             </div>
                         </div>
                     </div>

@@ -1,5 +1,4 @@
-﻿@model ProductIndexVM
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
     <!-- Basic -->
@@ -133,30 +132,9 @@
                             </h4>
                             <div class="contact_link_box">
 
-                                @foreach(var item in Model.ContactFooter)
-                                {
-                                    <a href="">
-                                        <i class="fa fa-map-marker" aria-hidden="true"></i>
-                                        <span>
-                                            @item.Adress
-                                        </span>
-                                    </a>
-                                    <a href="">
-                                        <i class="fa fa-phone" aria-hidden="true"></i>
-                                        <span>
-                                            Call @item.PhoneNumber
-                                        </span>
-                                    </a>
-                                    <a href="">
-                                        <i class="fa fa-envelope" aria-hidden="true"></i>
-                                        <span>
-                                         @item.Email
-                                        </span>
-                                    </a>
+                                @await Component.InvokeAsync("Footer")
 
-                                }
 
-                               
                             </div>
                         </div>
                     </div>

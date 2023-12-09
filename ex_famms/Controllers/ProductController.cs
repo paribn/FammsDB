@@ -13,16 +13,15 @@ namespace ex_famms.Controllers
         {
             _context = dbContext;
         }
+        [ResponseCache(Duration =10)]
         public IActionResult Index()
         {
 
             var product = _context.Products.ToList();
-            var contact =_context.Contact.ToList();
 
             var model = new ProductIndexVM
             {
                 Products = product,
-                ContactFooter = contact,
                 
             };
             return View(model);

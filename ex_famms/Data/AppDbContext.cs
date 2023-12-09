@@ -1,5 +1,6 @@
 ﻿using ex_famms.Models;
 using Microsoft.EntityFrameworkCore;
+
 namespace ex_famms.Data
 {
     public class AppDbContext : DbContext
@@ -10,6 +11,9 @@ namespace ex_famms.Data
 
         public DbSet<Product> Products { get; set; }
         public DbSet<Testimonial> Testimonial { get; set; }
-        public DbSet<Contact> Contact { get; set; }
+        public DbSet<Footer> Footers { get; set; }
+        public DbSet<Query> Query { get; set; }
+
+
     }
 }

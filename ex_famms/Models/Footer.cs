@@ -1,6 +1,6 @@
 ﻿namespace ex_famms.Models
 {
-    public class Contact:BaseEntity
+    public class Footer:BaseEntity
     {
         public int Id { get; set; }
         public string Adress { get; set; }
